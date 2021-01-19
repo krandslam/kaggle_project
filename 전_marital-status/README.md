@@ -8,4 +8,6 @@
 -  2group: married civ , AF 묶기 -> married / separated, married spouse absent -> SepAbs / 나머지 두기 <br>
                      (정확도) 0.8731619163397506 (F1 score) 0.712937282967321
 <br><br>
-정확도와 F1 score 모두 높게 나온 2group 채택
+정확도와 F1 score 모두 높게 나온 2group 채택 <br>
+education 삭제, 2group 모두 적용하여 Kaggle에 적용하여 나온 점수: 0.87266
+(모두 lgb 모델 기준)
