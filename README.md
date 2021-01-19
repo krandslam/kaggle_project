@@ -1,6 +1,6 @@
 # kaggle_project
 
-## 결측치 
+## 결측치 처리
 
 - 각각의 전처리 결과는 스케일링 한것과 스케일링 안한것(노스케일링)으로 구분했고  
 light GBM, Xgboost, Randomforest 모델로 테스트함
