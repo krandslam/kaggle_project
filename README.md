@@ -70,7 +70,7 @@ lgb 모델 + 스케일링한 결과
 education 삭제: (정확도) 0.8730937151760108 (F1 score) 0.713032906886005 <br>
 education-num 그룹화: (정확도) 0.871762750310614 (F1 score) 0.7097831638905535 <br>
 결론: education 컬럼 삭제 채택, education-num은 그룹화 X <br>
-education 삭제, 2group 모두 적용하여 Kaggle에 적용하여 나온 점수: 0.87266
+education 삭제 + 2group 모두 적용하여 Kaggle에 적용하여 나온 점수: 0.87266
 
 - age <br>
 원본 결과 : (정확도) 0.8730937151760108 (F1 score) 0.713032906886005<br>
