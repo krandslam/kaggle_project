@@ -51,6 +51,6 @@ light GBM, Xgboost, Randomforest 모델로 테스트함
       (F1 score) 0.6709962997052819 <br>
    
 ## 컬럼 전처리
-- capital gain & loss
+- capital gain & loss <br>
 방법1 결과: (정확도) 0.8697604649329989 (F1 score) 0.7174423280503007 <br>
 방법2 결과: (정확도) 0.8697604649329989 (F1 score) 0.7174423280503007 <br>
