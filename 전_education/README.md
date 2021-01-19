@@ -2,7 +2,7 @@
 <br>
 - education 삭제:  (정확도) 0.8730937151760108 (F1 score) 0.713032906886005
 <br>
-education-num 그룹화
+education-num 그룹화 <
 - 1-8 / 나머지:  (정확도) 0.871762750310614 (F1 score) 0.7097831638905535
 <br><br>
 결론: education 컬럼 삭제 채택, education-num은 그룹화하지 않는 것이 더 점수가 높음
