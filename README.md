@@ -1,6 +1,5 @@
 # kaggle_project
 
-##
 최종 결과물은 Kaggle_income_final_0.87688.ipynb이고 캐글 public 점수 0.87688로 마무리 했습니다.  
 
 ## 결측치 처리
